@@ -25,7 +25,7 @@ Before using this code, ensure that you have the following prerequisites install
 1. *Clone the Repository:*
 
    ```shell
-   git clone https://nw-github.tier2.reston.netwitness.com/sharveshwar-kumar/rpm.git
+   git clone https://github.com/sharvesh54/WebScraper.git
    cd your-repo
    ```
   
