@@ -43,3 +43,10 @@ Before using this code, ensure that you have the following prerequisites install
      ```
      with the connection string for your MongoDB server.
 
+
+## Storing the scraped data in MongoDB
+![MongoDB](https://github.com/sharvesh54/WebScraper/blob/main/Screenshots/Mongo%20database.png)
+
+## Search Engine 
+![Search Engine](https://github.com/sharvesh54/WebScraper/blob/main/Screenshots/Search%20UI.png)
+
